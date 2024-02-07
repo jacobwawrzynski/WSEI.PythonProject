@@ -1,6 +1,6 @@
 # Project data
 countries.csv
-countries-formatted.xlsx
+countries_formatted.xlsx
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
